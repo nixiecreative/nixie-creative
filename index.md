@@ -4,9 +4,10 @@ hide_title: true
 sections:
   - type: section_hero
     title: >-
-      Nixie Creative <style> body {   background-image: url('img_girl.jpg');  
-      background-repeat: no-repeat;   background-attachment: fixed;  
-      background-size: cover; } </style>
+      Nixie Creative <style> body {   background-image:
+      url('Nixie%20Creative%20Web%20Logo.png');   background-repeat:
+      no-repeat;   background-attachment: fixed;   background-size: cover; }
+      </style>
     section_id: hero
     content: |
       ### Web Design & Services 

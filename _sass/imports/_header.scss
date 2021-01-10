@@ -41,11 +41,11 @@
   font-weight: bold;
   line-height: 1.1;
   margin: 0;
-  text-transform: uppercase;
+  text-transform: none;
 
   a {
-    background: _palette(accent);
-    display: inline-block;
+    background: #fff;
+    display: inline;
     padding: 0.2em 0.45em;
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Thank You!
-image: /images/Purple gem style background.png
+image: /images/Nixie Creative Web Logo.png
 image_alt: Thank You Led Signage
 layout: page
 ---

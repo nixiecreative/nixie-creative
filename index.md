@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: 'Nixie Creative <br> '
     section_id: hero
-    content: Web Design & Services
+    content: '## Web Design & Services'
     actions:
       - type: action
         label: Let's talk

@@ -5,8 +5,8 @@ sections:
   - type: section_hero
     title: >-
       <a><h4>Nixie Creative</h4></a><img
-      src="/images/Nixie%20Creative%20Logo%20Image.png" alt="Purple hexagon logo
-      with angled pink, blue, white and purple triangles inside">
+      src="images/Nixie%20Creative%20Logo%20Image%20300.png" alt="Purple hexagon
+      logo with angled pink, blue, white and purple triangles inside">
     section_id: hero
     content: |
       ### Web Design & Services 

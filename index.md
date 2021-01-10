@@ -5,9 +5,8 @@ sections:
   - type: section_hero
     title: >-
       Nixie Creative <style> body {   background-image:
-      url('Nixie%20Creative%20Web%20Logo.png');   background-repeat:
-      no-repeat;   background-attachment: fixed;   background-size: cover; }
-      </style>
+      ('Nixie%20Creative%20Web%20Logo.png');   background-repeat: no-repeat;  
+      background-attachment: fixed;   background-size: cover; } </style>
     section_id: hero
     content: |
       ### Web Design & Services 

@@ -12,6 +12,6 @@ sections:
         url: /contact
         style: button
 layout: advanced
-excerpt: Excerpt
+excerpt: ''
 image: /images/Nixie Creative Web Logo.png
 ---

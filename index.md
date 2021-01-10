@@ -13,5 +13,5 @@ sections:
         style: button
 layout: advanced
 excerpt: Excerpt
-image: /images/terrific-tomato.png
+image: /images/Nixie Creative Web Logo.png
 ---

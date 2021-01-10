@@ -1,6 +1,6 @@
 ---
 title: Nixie Creative
-hide_title: true
+hide_title: false
 sections:
   - type: section_hero
     title: Nixie Creative Web Design & Services

@@ -1,5 +1,5 @@
 ---
-title: Nixie Creative
+title: Home
 hide_title: false
 sections:
   - type: section_hero

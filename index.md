@@ -17,5 +17,4 @@ sections:
         style: button
 layout: advanced
 excerpt: ''
-image: /images/Nixie Creative Web Logo.png
 ---

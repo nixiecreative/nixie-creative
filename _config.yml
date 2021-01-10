@@ -1,12 +1,12 @@
-title: Stackbit Exto Theme
+title: Theme
 baseurl: /
 permalink: '/:title/'
 description: A portfolio theme with a blog
 color_scheme: light
-accent_color: pink
+accent_color: violet
 header:
   type: header
-  title: Exto
+  title: Nixie Creative
   has_nav: true
   nav_links:
     - type: action
@@ -22,10 +22,6 @@ header:
       url: /blog/
       style: link
     - type: action
-      label: Style Guide
-      url: /style-guide/
-      style: link
-    - type: action
       label: About
       url: /about/
       style: link
@@ -33,6 +29,10 @@ header:
       label: Contact
       url: /contact/
       style: link
+  logo_img: /images/Nixie Creative Logo Image.png
+  logo_img_alt: >-
+    Purple hexagon logo with angled pink, blue, white and purple triangles
+    inside
 footer:
   type: footer
   content: >-
@@ -89,3 +89,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+favicon: /images/Nixie Creative Web Logo.png

@@ -3,11 +3,9 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Nixie Creative <br> '
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Web Design & Services
     actions:
       - type: action
         label: Let's talk
@@ -18,7 +16,7 @@ sections:
     section_id: latest-projects
     subtitle: An optional subtitle of the section
     layout_style: mosaic
-    projects_number: 6
+    projects_number: 0
     view_all_label: View All
     view_all_url: portfolio
   - type: section_grid
@@ -55,7 +53,7 @@ sections:
     title: Testimonials
     section_id: testimonials
     subtitle: An optional subtitle of the section
-    col_number: three
+    col_number: two
     testimonials:
       - type: testimonial
         author: Sean Salazar
@@ -79,16 +77,21 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - type: section_posts
-    title: Latest from the Blog
-    section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - type: action
-        label: View Blog
-        url: blog
-        style: button
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_hero
 layout: advanced
+excerpt: ''
 ---

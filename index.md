@@ -3,7 +3,7 @@ title: Nixie Creative
 hide_title: false
 sections:
   - type: section_hero
-    title: Nixie Creative Web Design & Services
+    title: Web Design & Services
     section_id: hero
     content: Web Design & Services
     actions:

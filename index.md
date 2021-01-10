@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: button
   - type: section_portfolio
-    title: Recent Work
+    title: ''
     section_id: latest-projects
     subtitle: An optional subtitle of the section
     layout_style: mosaic

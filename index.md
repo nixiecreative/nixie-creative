@@ -3,7 +3,10 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: <a><h4>Nixie Creative</h4></a>
+    title: >-
+      <img src="/images/Nixie%20Creative%20Logo%20Image.png" alt="Purple hexagon
+      logo with angled pink, blue, white and purple triangles inside">
+      <a><h4>Nixie Creative</h4></a>
     section_id: hero
     content: |
       ### Web Design & Services 

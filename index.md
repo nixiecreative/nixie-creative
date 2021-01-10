@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     title: 'Nixie Creative <br> '
-    section_id: hero
+    section_id: Web Design & Services
     content: Web Design & Services
     actions:
       - type: action

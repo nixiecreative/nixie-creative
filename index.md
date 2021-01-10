@@ -8,7 +8,7 @@ sections:
     content: '### Web Design & Services'
     actions:
       - type: action
-        label: Hire me
+        label: Drop me a line
         url: /contact
         style: button
   - type: section_portfolio

@@ -89,4 +89,5 @@ sections:
         url: blog
         style: button
 layout: advanced
+excerpt: Hello
 ---

@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 image_alt: lorem-ipsum
 layout: page
-image: /images/Nixie Creative Web Logo.png
+image: /images/Purple gem style background.png
 ---
 ## Lorem ipsum
 

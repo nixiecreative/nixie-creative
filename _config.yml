@@ -18,12 +18,12 @@ header:
       url: /about/
       style: link
     - type: action
-      label: Contact
-      url: /contact/
-      style: link
-    - type: action
       label: Portfolio
       url: /portfolio/
+      style: link
+    - type: action
+      label: Contact
+      url: /contact/
       style: link
   logo_img: /images/Nixie Creative Logo Image.png
   logo_img_alt: >-

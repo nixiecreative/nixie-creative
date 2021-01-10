@@ -23,7 +23,7 @@ sections:
     title: Testimonials
     section_id: testimonials
     subtitle: An optional subtitle of the section
-    col_number: three
+    col_number: two
     testimonials:
       - type: testimonial
         author: Sean Salazar

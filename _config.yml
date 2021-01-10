@@ -25,10 +25,6 @@ header:
       label: Portfolio
       url: /portfolio/
       style: link
-    - type: action
-      label: Blog
-      url: /blog/
-      style: link
   logo_img: /images/Nixie Creative Logo Image.png
   logo_img_alt: >-
     Purple hexagon logo with angled pink, blue, white and purple triangles

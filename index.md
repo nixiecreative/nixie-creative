@@ -11,6 +11,13 @@ sections:
         label: Let's talk
         url: /contact
         style: button
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
   - type: section_portfolio
     title: Recent Work
     section_id: latest-projects
@@ -92,13 +99,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items: []
-    type: section_grid
 layout: advanced
 excerpt: ''
 ---

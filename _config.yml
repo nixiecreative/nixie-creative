@@ -14,16 +14,16 @@ header:
       url: /
       style: link
     - type: action
+      label: About
+      url: /about/
+      style: link
+    - type: action
       label: Portfolio
       url: /portfolio/
       style: link
     - type: action
       label: Blog
       url: /blog/
-      style: link
-    - type: action
-      label: About
-      url: /about/
       style: link
     - type: action
       label: Contact

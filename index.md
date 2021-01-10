@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - title: Nixie
+  - title: 'Nixie '
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three

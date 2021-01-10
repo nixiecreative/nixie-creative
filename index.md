@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: "Nixie Creative <a>### Web Design & Services\_<img src=\"https://www.w3schools.com/images/w3schools_green.jpg\" alt=\"W3Schools.com\" style=\"float:right;\"></p>"
+    title: "Nixie Creative ### Web Design & Services\_<img src=\"https://www.w3schools.com/images/w3schools_green.jpg\" alt=\"W3Schools.com\" style=\"float:right;\"></p>"
     section_id: hero
     content: |
       ### Web Design & Services 

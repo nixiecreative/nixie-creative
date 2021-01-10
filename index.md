@@ -19,20 +19,6 @@ sections:
     projects_number: 0
     view_all_label: View All
     view_all_url: portfolio
-  - type: section_testimonials
-    title: Testimonials
-    section_id: testimonials
-    subtitle: An optional subtitle of the section
-    col_number: two
-    testimonials:
-      - type: testimonial
-        author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        avatar_alt: Sean Salazar's photo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: >-

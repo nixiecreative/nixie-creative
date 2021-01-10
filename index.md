@@ -10,7 +10,7 @@ sections:
       - type: action
         label: Learn more
         url: /contact
-        style: button
+        style: icon
 layout: advanced
 excerpt: ''
 ---

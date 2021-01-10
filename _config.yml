@@ -89,3 +89,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+favicon: /images/Nixie Creative Web Logo.png

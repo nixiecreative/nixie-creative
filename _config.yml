@@ -7,7 +7,7 @@ accent_color: violet
 header:
   type: header
   title: Nixie Creative
-  has_nav: false
+  has_nav: true
   nav_links:
     - type: action
       label: Home

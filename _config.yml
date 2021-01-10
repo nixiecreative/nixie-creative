@@ -30,7 +30,9 @@ header:
       url: /contact/
       style: link
   logo_img: /images/Nixie Creative Logo Image.png
-  logo_img_alt: 'Purple hexagon logo with angled pink, blue, white and purpletrianglesinside'
+  logo_img_alt: >-
+    Purple hexagon logo with angled pink, blue, white and purple triangles
+    inside
 footer:
   type: footer
   content: >-

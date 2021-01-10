@@ -3,10 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: >-
-      Nixie Creative <style> body {   background-image:
-      ('Nixie%20Creative%20Web%20Logo.png');   background-repeat: no-repeat;  
-      background-attachment: fixed;   background-size: cover; } </style>
+    title: 'Nixie Creative '
     section_id: hero
     content: |
       ### Web Design & Services 

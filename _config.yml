@@ -6,7 +6,7 @@ color_scheme: light
 accent_color: pink
 header:
   type: header
-  title: Exto
+  title: Nixie Creative
   has_nav: true
   nav_links:
     - type: action

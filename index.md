@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: <a><h3>Nixie Creative</h3> </a> <h2> Web Design & Services</h2>
+    title: <a><h3>Nixie Creative</h3></a> <h2> Web Design & Services</h2>
     section_id: hero
     content: |
       ### Web Design & Services 

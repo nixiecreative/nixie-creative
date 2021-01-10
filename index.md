@@ -2,13 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - title: 'Nixie '
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items: []
-    type: section_grid
   - type: section_hero
     title: Web Design & Services
     section_id: hero

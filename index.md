@@ -12,5 +12,5 @@ sections:
         url: /contact
         style: button
 layout: advanced
-excerpt: ''
+excerpt: Excerpt
 ---
